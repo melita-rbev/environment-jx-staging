@@ -14,7 +14,7 @@ expose:
   - --v
   - 4
   config:
-    domain: staging.melita.it
+    domain: build.melita.it
     exposer: Ingress
     http: "true"
 jenkins:
