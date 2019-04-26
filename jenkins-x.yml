@@ -6,4 +6,6 @@ pipelineConfig:
   env:
   - name: DEPLOY_NAMESPACE
     value: jx-staging
+  - name: CHART_REPOSITORY
+    value: https://chartmuseum.jx.build.melita.it
   pipelines: {}
