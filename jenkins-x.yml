@@ -6,6 +6,8 @@ pipelineConfig:
   env:
   - name: DEPLOY_NAMESPACE
     value: jx-staging
+  - name: DOCKER_REGISTRY
+    value: ocker-registry.jx.build.melita.it
   - name: CHART_REPOSITORY
     value: https://chartmuseum.jx.build.melita.it
   pipelines: {}
