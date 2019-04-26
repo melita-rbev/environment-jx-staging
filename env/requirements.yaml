@@ -11,5 +11,5 @@ dependencies:
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.35
 - name: sandbox
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.45
+  repository: https://chartmuseum.jx.build.melita.it
+  version: 0.0.46
