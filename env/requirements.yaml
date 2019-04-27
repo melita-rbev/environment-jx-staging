@@ -10,9 +10,10 @@ dependencies:
 - name: jx-melita-it-eshop-frontend
   repository: https://chartmuseum.jx.build.melita.it
   version: 0.0.62
-- name: melita-it-eshop-frontend
+- alias: melita-it-eshop-frontend
+  name: melita-it-eshop-frontend
   repository: https://chartmuseum.jx.build.melita.it
-  version: 0.0.61
+  version: 0.0.62
 - name: sandbox
   repository: https://chartmuseum.jx.build.melita.it
   version: 0.0.47
