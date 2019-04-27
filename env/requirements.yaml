@@ -16,4 +16,4 @@ dependencies:
   version: 0.0.62
 - name: sandbox
   repository: https://chartmuseum.jx.build.melita.it
-  version: 0.0.46
+  version: 0.0.47
