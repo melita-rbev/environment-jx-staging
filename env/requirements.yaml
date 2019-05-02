@@ -24,7 +24,7 @@ dependencies:
   version: 1.0.82
 - name: melita-it-eshop-frontend
   repository: https://chartmuseum.jx.build.melita.it
-  version: 1.0.84
+  version: 0.0.85
 - name: openfiber-address-api
   repository: https://chartmuseum.jx.build.melita.it
   version: 1.0.50
