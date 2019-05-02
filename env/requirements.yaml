@@ -33,7 +33,7 @@ dependencies:
   version: 1.0.39
 - name: personal-details-validator-api
   repository: https://chartmuseum.jx.build.melita.it
-  version: 1.0.41
+  version: 1.0.42
 - name: sandbox
   repository: https://chartmuseum.jx.build.melita.it
   version: 0.0.47
