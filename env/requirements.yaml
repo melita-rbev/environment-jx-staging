@@ -18,7 +18,7 @@ dependencies:
   version: 2.3.89
 - name: kyc-service-api
   repository: https://chartmuseum.jx.build.melita.it
-  version: 1.0.26
+  version: 1.0.25
 - name: melita-it-eshop-api
   repository: https://chartmuseum.jx.build.melita.it
   version: 1.0.85
