@@ -4,7 +4,7 @@ dependencies:
   version: 0.3.34
 - name: appointment-scheduling-api
   repository: https://chartmuseum.jx.build.melita.it
-  version: 1.0.29
+  version: 1.0.33
 - name: eshop-product-api
   repository: https://chartmuseum.jx.build.melita.it
   version: 1.0.49
