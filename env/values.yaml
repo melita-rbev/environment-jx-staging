@@ -23,3 +23,7 @@ jenkins:
 prow: {}
 sandbox:
   replicaCount: 1
+amdocs-ws-api:
+  replicaCount: 2
+  springBoot:
+    profiles: default,gcp,ita-production
