@@ -16,6 +16,9 @@ dependencies:
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.89
+- name: jx-melita-it-eshop-api
+  repository: https://chartmuseum.jx.build.melita.it
+  version: 1.0.89
 - name: kyc-service-api
   repository: https://chartmuseum.jx.build.melita.it
   version: 1.0.26
