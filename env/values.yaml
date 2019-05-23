@@ -28,7 +28,7 @@ amdocs-ws-api:
   springBoot:
     profiles: default,gcp,ita-production
 payment-service-api:
-  springBoot:
-    databaseInstance: melita-italy-staging
   env:
     STATUS_URL: https://www.staging.melita.it/api/payment/apco/checkout/callback
+  springBoot:
+    databaseInstance: melita-italy-staging:europe-west2:staging-mysql=tcp:3306
