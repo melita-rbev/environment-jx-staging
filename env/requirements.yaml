@@ -31,6 +31,9 @@ dependencies:
 - name: ott-service-api
   repository: https://chartmuseum.jx.build.melita.it
   version: 1.0.39
+- name: payment-service-api
+  repository: https://chartmuseum.jx.build.melita.it
+  version: 1.3.0
 - name: personal-details-validator-api
   repository: https://chartmuseum.jx.build.melita.it
   version: 1.0.42
