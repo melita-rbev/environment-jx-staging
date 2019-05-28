@@ -27,7 +27,7 @@ dependencies:
   version: 0.0.107
 - name: openfiber-address-api
   repository: https://chartmuseum.jx.build.melita.it
-  version: 1.0.50
+  version: 1.0.58
 - name: ott-service-api
   repository: https://chartmuseum.jx.build.melita.it
   version: 1.0.39
