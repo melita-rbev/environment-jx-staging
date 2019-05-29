@@ -47,5 +47,5 @@ dependencies:
   repository: https://chartmuseum.jx.build.melita.it
   version: 0.0.5
 - name: mesh-api 
-	repository: https://jenkins-x-chartmuseum.jx.build.melita.it
+  repository: https://jenkins-x-chartmuseum.jx.build.melita.it
 - version: 1.3.0
