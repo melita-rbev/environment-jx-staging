@@ -43,3 +43,6 @@ dependencies:
 - name: selfcare-api
   repository: https://chartmuseum.jx.build.melita.it
   version: 3.50.0
+- name: mymelita-frontend
+  repository: https://chartmuseum.jx.build.melita.it
+  version: 0.0.4
