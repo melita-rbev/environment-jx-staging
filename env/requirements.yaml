@@ -41,5 +41,5 @@ dependencies:
   repository: https://chartmuseum.jx.build.melita.it
   version: 0.0.80
 - name: selfcare-api
-  repository: http://jenkins-x-chartmuseum:8080
+  repository: https://chartmuseum.jx.build.melita.it
   version: 3.50.0
