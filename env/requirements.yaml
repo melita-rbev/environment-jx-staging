@@ -45,7 +45,7 @@ dependencies:
   version: 3.50.6
 - name: mymelita-frontend
   repository: https://chartmuseum.jx.build.melita.it
-  version: 0.0.8
+  version: 0.0.10
 - name: mesh-api
   repository: https://chartmuseum.jx.build.melita.it
   version: 1.3.0
