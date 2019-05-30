@@ -33,7 +33,7 @@ payment-service-api:
   springBoot:
     databaseInstance: melita-italy-staging:europe-west2:staging-mysql=tcp:3306
 selfcare-api:
-replicaCount: 3
+  replicaCount: 3
   springBoot:
     databaseInstance: melita-italy-staging:europe-west2:staging-mysql=tcp:3306
     profiles: default,gcp,gcp-staging
