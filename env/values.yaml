@@ -24,7 +24,7 @@ prow: {}
 sandbox:
   replicaCount: 1
 amdocs-ws-api:
-  replicaCount: 2
+  replicaCount: 3
   springBoot:
     profiles: default,gcp,ita-production
 payment-service-api:
