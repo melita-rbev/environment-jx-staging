@@ -24,7 +24,7 @@ prow: {}
 sandbox:
   replicaCount: 1
 amdocs-ws-api:
-  replicaCount: 3
+  replicaCount: 1
   springBoot:
     profiles: default,gcp,ita-production
 payment-service-api:
@@ -33,7 +33,8 @@ payment-service-api:
   springBoot:
     databaseInstance: melita-italy-staging:europe-west2:staging-mysql=tcp:3306
 selfcare-api:
-  replicaCount: 3
+  replicaCount: 1
+  maxUnavailable: 0
   springBoot:
     databaseInstance: melita-italy-staging:europe-west2:staging-mysql=tcp:3306
     profiles: default,gcp,gcp-staging,default,amdocs-ws-api-production,ehcache,all-diagnostics,wifi-diagnostics,antivirus,selfcare-instance-italia,test,ad-italia,amdocs-rest-spring4,ws-api-production
