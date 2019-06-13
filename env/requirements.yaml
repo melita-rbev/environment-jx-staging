@@ -52,3 +52,6 @@ dependencies:
 - name: modeminfo-api
   repository: https://chartmuseum.jx.build.melita.it
   version: 1.13.1
+- name: customer-360-frontend
+  repository: https://chartmuseum.jx.build.melita.it
+  version: 0.0.1
