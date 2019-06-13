@@ -49,3 +49,6 @@ dependencies:
 - name: mesh-api
   repository: https://chartmuseum.jx.build.melita.it
   version: 1.3.0
+- name: modeminfo-api
+  repository: https://chartmuseum.jx.build.melita.it
+  version: 1.13.1
