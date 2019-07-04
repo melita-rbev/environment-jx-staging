@@ -1,10 +1,13 @@
 dependencies:
 - name: amdocs-ws-api
   repository: https://chartmuseum.jx.build.melita.it
-  version: 0.3.203
+  version: 0.3.213
 - name: appointment-scheduling-api
   repository: https://chartmuseum.jx.build.melita.it
   version: 1.0.41
+- name: customer-360-frontend
+  repository: https://chartmuseum.jx.build.melita.it
+  version: 0.0.4
 - name: eshop-product-api
   repository: https://chartmuseum.jx.build.melita.it
   version: 1.0.57
@@ -21,10 +24,10 @@ dependencies:
   version: 1.0.35
 - name: melita-it-eshop-api
   repository: https://chartmuseum.jx.build.melita.it
-  version: 1.0.115
+  version: 1.0.117
 - name: melita-it-eshop-frontend
   repository: https://chartmuseum.jx.build.melita.it
-  version: 0.0.119
+  version: 0.0.120
 - name: openfiber-address-api
   repository: https://chartmuseum.jx.build.melita.it
   version: 1.0.58
@@ -42,7 +45,7 @@ dependencies:
   version: 0.0.80
 - name: selfcare-api
   repository: https://chartmuseum.jx.build.melita.it
-  version: 3.50.42
+  version: 3.50.49
 - name: mymelita-frontend
   repository: https://chartmuseum.jx.build.melita.it
   version: 0.0.13
@@ -52,6 +55,3 @@ dependencies:
 - name: modeminfo-api
   repository: https://chartmuseum.jx.build.melita.it
   version: 1.13.1
-- name: customer-360-frontend
-  repository: https://chartmuseum.jx.build.melita.it
-  version: 0.0.1
