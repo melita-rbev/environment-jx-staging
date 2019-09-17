@@ -55,3 +55,6 @@ dependencies:
 - name: modeminfo-api
   repository: https://chartmuseum.jx.build.melita.it
   version: 1.13.1
+- name: customer-events-ws
+  repository: https://chartmuseum.jx.build.melita.it
+  version: 1.0.4
