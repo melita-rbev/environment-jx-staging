@@ -44,3 +44,4 @@ modeminfo-api:
 melita-it-customer-management-api:
   springBoot:
     profiles: gcp-master,gcp,amdocs-rest-spring4,amdocs-ws-api-production
+    databaseInstance: melita-italy-staging:europe-west2:staging-mysql=tcp:3306
