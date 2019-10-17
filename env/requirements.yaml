@@ -57,7 +57,7 @@ dependencies:
   version: 1.13.23
 - name: customer-events-ws
   repository: https://chartmuseum.jx.build.melita.it
-  version: 1.0.11
+  version: 1.0.12
 - name: melita-it-customer-management-api
   repository: https://chartmuseum.jx.build.melita.it
-  version: 1.0.19
+  version: 1.0.20
