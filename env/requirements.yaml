@@ -1,7 +1,7 @@
 dependencies:
 - name: amdocs-ws-api
   repository: https://chartmuseum.jx.build.melita.it
-  version: 0.3.395
+  version: 0.3.400
 - name: appointment-scheduling-api
   repository: https://chartmuseum.jx.build.melita.it
   version: 1.0.50
