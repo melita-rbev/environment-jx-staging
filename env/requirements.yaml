@@ -1,13 +1,13 @@
 dependencies:
 - name: amdocs-ws-api
   repository: https://chartmuseum.jx.build.melita.it
-  version: 0.3.403
+  version: 0.3.416
 - name: appointment-scheduling-api
   repository: https://chartmuseum.jx.build.melita.it
   version: 1.0.50
 - name: customer-360-frontend
   repository: https://chartmuseum.jx.build.melita.it
-  version: 0.0.37
+  version: 0.0.40
 - name: eshop-product-api
   repository: https://chartmuseum.jx.build.melita.it
   version: 1.0.57
@@ -45,7 +45,7 @@ dependencies:
   version: 0.0.80
 - name: selfcare-api
   repository: https://chartmuseum.jx.build.melita.it
-  version: 3.50.141
+  version: 3.50.145
 - name: mymelita-frontend
   repository: https://chartmuseum.jx.build.melita.it
   version: 0.0.48
