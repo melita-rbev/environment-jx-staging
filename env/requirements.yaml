@@ -10,7 +10,7 @@ dependencies:
   version: 0.0.40
 - name: eshop-product-api
   repository: https://chartmuseum.jx.build.melita.it
-  version: 1.0.57
+  version: 1.0.59
 - alias: cleanup
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
