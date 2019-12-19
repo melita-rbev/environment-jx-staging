@@ -32,7 +32,7 @@ payment-service-api:
     STATUS_URL: https://www.staging.melita.it/api/payment/apco/checkout/callback
   springBoot:
     databaseInstance: melita-italy-staging:europe-west2:staging-mysql=tcp:3306
-     profiles: default,gcp,gcp-staging,italia
+    profiles: default,gcp,gcp-staging,italia
 selfcare-api:
   replicaCount: 1
   maxUnavailable: 0
