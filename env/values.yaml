@@ -49,3 +49,6 @@ melita-it-customer-management-api:
 openfiber-address-api:
   springBoot:
     profiles: default,gcp,gcp-staging
+ott-service-api:
+  springBoot:
+    databaseInstance: melita-italy-staging:europe-west2:staging-mysql=tcp:3306
