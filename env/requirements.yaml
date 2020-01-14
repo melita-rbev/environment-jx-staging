@@ -7,7 +7,7 @@ dependencies:
   version: 1.0.51
 - name: customer-360-frontend
   repository: https://chartmuseum.jx.build.melita.it
-  version: 0.0.45
+  version: 0.0.40
 - name: eshop-product-api
   repository: https://chartmuseum.jx.build.melita.it
   version: 1.0.59
