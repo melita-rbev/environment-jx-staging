@@ -7,7 +7,7 @@ dependencies:
   version: 1.0.51
 - name: customer-360-frontend
   repository: https://chartmuseum.jx.build.melita.it
-  version: 0.0.45
+  version: 0.0.49
 - name: eshop-product-api
   repository: https://chartmuseum.jx.build.melita.it
   version: 1.0.59
@@ -45,7 +45,7 @@ dependencies:
   version: 0.0.83
 - name: selfcare-api
   repository: https://chartmuseum.jx.build.melita.it
-  version: 3.50.171
+  version: 3.50.173
 - name: mymelita-frontend
   repository: https://chartmuseum.jx.build.melita.it
   version: 0.0.58
