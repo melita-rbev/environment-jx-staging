@@ -4,7 +4,7 @@ dependencies:
   version: 0.4.29
 - name: appointment-scheduling-api
   repository: https://chartmuseum.jx.build.melita.it
-  version: 1.0.51
+  version: 1.0.53
 - name: customer-360-frontend
   repository: https://chartmuseum.jx.build.melita.it
   version: 0.0.56
