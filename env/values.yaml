@@ -52,3 +52,5 @@ openfiber-address-api:
 ott-service-api:
   springBoot:
     databaseInstance: melita-italy-staging:europe-west2:staging-mysql=tcp:3306
+customer-events-ws:
+  replicaCount: 2
