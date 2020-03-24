@@ -38,7 +38,7 @@ selfcare-api:
   maxUnavailable: 0
   springBoot:
     databaseInstance: melita-italy-staging:europe-west2:staging-mysql=tcp:3306
-    profiles: default,gcp,gcp-staging,default,amdocs-ws-api-production,ehcache,all-diagnostics,wifi-diagnostics,antivirus,selfcare-instance-italia,test,ad-italia,amdocs-rest-spring4,ws-api-production
+    profiles: default,gcp,gcp-staging,default,amdocs-ws-api-production,ehcache,all-diagnostics,wifi-diagnostics,antivirus,selfcare-instance-italia,ad-italia,amdocs-rest-spring4,ws-api-production
 modeminfo-api:
   springBoot:
     databaseInstance: melita-italy-staging:europe-west2:staging-mysql=tcp:3306
