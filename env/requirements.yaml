@@ -61,3 +61,6 @@ dependencies:
 - name: melita-it-customer-management-api
   repository: https://chartmuseum.jx.build.melita.it
   version: 1.0.21
+- name: monitoring-api
+  repository: https://chartmuseum.jx.dev.melita.io
+  version: 1.0.3
